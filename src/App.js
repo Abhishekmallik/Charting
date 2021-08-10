@@ -1,9 +1,9 @@
 import React from 'react';
-import BarChart from './components/BarChart';
+import Chart from './components/chart';
 
 const App = () => {
   return <div>
-    <BarChart></BarChart>
+    <Chart></Chart>
   </div>
 }
 
